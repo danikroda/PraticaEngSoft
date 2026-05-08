@@ -27,3 +27,6 @@ pytest test_calculador.py -v
 
 git add README.md
 git commit -m "docs: README do projeto"
+
+###Fiz caquinha, dei commit tudo junto
+
